@@ -1,0 +1,15 @@
+/Users/berkant/Desktop/Bankamatik Uygulaması/bin/Debug/net7.0/Bankamatik Uygulaması
+/Users/berkant/Desktop/Bankamatik Uygulaması/bin/Debug/net7.0/Bankamatik Uygulaması.deps.json
+/Users/berkant/Desktop/Bankamatik Uygulaması/bin/Debug/net7.0/Bankamatik Uygulaması.runtimeconfig.json
+/Users/berkant/Desktop/Bankamatik Uygulaması/bin/Debug/net7.0/Bankamatik Uygulaması.dll
+/Users/berkant/Desktop/Bankamatik Uygulaması/bin/Debug/net7.0/Bankamatik Uygulaması.pdb
+/Users/berkant/Desktop/Bankamatik Uygulaması/obj/Debug/net7.0/Bankamatik Uygulaması.csproj.AssemblyReference.cache
+/Users/berkant/Desktop/Bankamatik Uygulaması/obj/Debug/net7.0/Bankamatik Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkant/Desktop/Bankamatik Uygulaması/obj/Debug/net7.0/Bankamatik Uygulaması.AssemblyInfoInputs.cache
+/Users/berkant/Desktop/Bankamatik Uygulaması/obj/Debug/net7.0/Bankamatik Uygulaması.AssemblyInfo.cs
+/Users/berkant/Desktop/Bankamatik Uygulaması/obj/Debug/net7.0/Bankamatik Uygulaması.csproj.CoreCompileInputs.cache
+/Users/berkant/Desktop/Bankamatik Uygulaması/obj/Debug/net7.0/Bankamatik Uygulaması.dll
+/Users/berkant/Desktop/Bankamatik Uygulaması/obj/Debug/net7.0/refint/Bankamatik Uygulaması.dll
+/Users/berkant/Desktop/Bankamatik Uygulaması/obj/Debug/net7.0/Bankamatik Uygulaması.pdb
+/Users/berkant/Desktop/Bankamatik Uygulaması/obj/Debug/net7.0/Bankamatik Uygulaması.genruntimeconfig.cache
+/Users/berkant/Desktop/Bankamatik Uygulaması/obj/Debug/net7.0/ref/Bankamatik Uygulaması.dll
